@@ -10,7 +10,7 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 
 {
-    "name": "Recurring - Contracts Management dummy commit 4",
+    "name": "Recurring - Contracts Management dummy commit 5",
     "version": "15.0.1.2.0",
     "category": "Contract Management",
     "license": "AGPL-3",
